@@ -1,0 +1,8 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+[[mods]]
+modId="aisteve"
+version="1.0.0"
+displayName="AI Steve"
+description="Press Q, pick an AI provider, enter API key, spawn AI Steve that executes plans."
